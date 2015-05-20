@@ -1,0 +1,18 @@
+/arcofi_gsc.c/1.1/Wed Dec 21 23:12:03 2011//TOPENBSD_5_7
+/com_gsc.c/1.21/Sun Jul 15 19:25:49 2007//TOPENBSD_5_7
+/fdc_gsc.c/1.5/Wed Apr  7 18:24:19 2004//TOPENBSD_5_7
+/gscbus.c/1.30/Sun Nov 28 20:09:40 2010//TOPENBSD_5_7
+/gscbusvar.h/1.14/Sun Nov 28 20:09:40 2010//TOPENBSD_5_7
+/gsckbc.c/1.18/Fri Oct 31 10:29:33 2014//TOPENBSD_5_7
+/gsckbcreg.h/1.1/Fri Jan 31 22:50:19 2003//TOPENBSD_5_7
+/harmony.c/1.29/Sat Jul 12 18:44:41 2014//TOPENBSD_5_7
+/harmonyreg.h/1.5/Mon Jun  2 19:54:29 2003//TOPENBSD_5_7
+/harmonyvar.h/1.8/Fri Aug 15 13:25:53 2003//TOPENBSD_5_7
+/hil_gsc.c/1.5/Thu Dec 22 07:09:52 2005//TOPENBSD_5_7
+/if_ie_gsc.c/1.26/Sat Mar 29 18:09:29 2014//TOPENBSD_5_7
+/lpt_gsc.c/1.12/Fri Sep 16 17:20:07 2011//TOPENBSD_5_7
+/mongoose_gsc.c/1.1/Sat Oct 30 10:26:32 2004//TOPENBSD_5_7
+/oosiop_gsc.c/1.3/Tue Apr 20 20:21:54 2010//TOPENBSD_5_7
+/osiop_gsc.c/1.12/Tue Dec 13 23:13:45 2005//TOPENBSD_5_7
+/siop_gsc.c/1.4/Thu Aug 23 21:01:22 2007//TOPENBSD_5_7
+D

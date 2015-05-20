@@ -1,0 +1,16 @@
+/Makefile/1.2/Fri Jan 30 00:27:09 2015//TOPENBSD_5_7
+/center.in/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/center.out_ascii/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/complex.in/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/complex.out_ascii/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/complex.out_lint/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/empty.in/1.1/Fri Jan 30 00:27:09 2015//TOPENBSD_5_7
+/empty.out_ascii/1.1/Fri Jan 30 00:27:09 2015//TOPENBSD_5_7
+/empty.out_lint/1.1/Fri Jan 30 00:27:09 2015//TOPENBSD_5_7
+/emptyline.in/1.1/Fri Jan 30 00:27:09 2015//TOPENBSD_5_7
+/emptyline.out_ascii/1.1/Fri Jan 30 00:27:09 2015//TOPENBSD_5_7
+/numbers.in/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/numbers.out_ascii/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/span.in/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+/span.out_ascii/1.1.1.1/Thu Jan 29 23:24:24 2015//TOPENBSD_5_7
+D

@@ -1,0 +1,81 @@
+/auconv.c/1.9/Fri Oct 17 18:30:20 2008//TOPENBSD_5_7
+/auconv.h/1.8/Thu Jun 26 05:42:14 2008//TOPENBSD_5_7
+/audio.c/1.129/Tue Feb 10 21:56:09 2015//TOPENBSD_5_7
+/audio_if.h/1.28/Wed May 15 08:29:24 2013//TOPENBSD_5_7
+/bio.c/1.15/Sat Jul 12 18:48:17 2014//TOPENBSD_5_7
+/biovar.h/1.43/Wed Oct 23 13:05:38 2013//TOPENBSD_5_7
+/clock_subr.h/1.5/Thu Jun 26 05:42:14 2008//TOPENBSD_5_7
+/cninit.c/1.13/Sun Sep 14 14:17:24 2014//TOPENBSD_5_7
+/cons.c/1.24/Sun Sep 14 14:17:24 2014//TOPENBSD_5_7
+/cons.h/1.17/Sun Sep 29 12:56:31 2013//TOPENBSD_5_7
+/diskmap.c/1.9/Tue Dec 16 18:30:03 2014//TOPENBSD_5_7
+/firmload.c/1.11/Sat Jul 12 18:48:17 2014//TOPENBSD_5_7
+/flash.c/1.30/Thu May  8 21:17:00 2014//TOPENBSD_5_7
+/flashvar.h/1.7/Mon Nov 11 03:03:34 2013//TOPENBSD_5_7
+/hotplug.c/1.14/Tue Feb 10 21:58:16 2015//TOPENBSD_5_7
+/ipmi.c/1.75/Wed Jan  7 07:49:18 2015//TOPENBSD_5_7
+/ipmivar.h/1.19/Wed Jan  7 07:49:18 2015//TOPENBSD_5_7
+/ksyms.c/1.27/Tue Feb 10 21:56:09 2015//TOPENBSD_5_7
+/midi.c/1.33/Tue Feb 10 21:56:09 2015//TOPENBSD_5_7
+/midi_if.h/1.7/Thu Jun 26 05:42:14 2008//TOPENBSD_5_7
+/midivar.h/1.7/Fri Mar 15 09:10:52 2013//TOPENBSD_5_7
+/mulaw.c/1.14/Tue Oct 23 19:54:36 2007//TOPENBSD_5_7
+/mulaw.h/1.14/Thu Jun 26 05:42:14 2008//TOPENBSD_5_7
+/radio.c/1.10/Sun Sep 14 14:17:24 2014//TOPENBSD_5_7
+/radio_if.h/1.3/Thu May 30 15:22:26 2002//TOPENBSD_5_7
+/radiovar.h/1.3/Sat Jan  5 02:23:03 2002//TOPENBSD_5_7
+/rd.c/1.9/Thu Dec 18 21:06:24 2014//TOPENBSD_5_7
+/rnd.c/1.172/Tue Feb 17 22:34:59 2015//TOPENBSD_5_7
+/rndvar.h/1.36/Sat Feb  7 01:19:40 2015//TOPENBSD_5_7
+/softraid.c/1.349/Mon Feb  9 03:15:41 2015//TOPENBSD_5_7
+/softraid_concat.c/1.21/Fri Nov 22 03:47:07 2013//TOPENBSD_5_7
+/softraid_crypto.c/1.116/Fri Dec 19 17:15:16 2014//TOPENBSD_5_7
+/softraid_raid0.c/1.47/Tue Nov 18 02:37:30 2014//TOPENBSD_5_7
+/softraid_raid1.c/1.60/Tue Jan 27 10:12:45 2015//TOPENBSD_5_7
+/softraid_raid5.c/1.17/Tue Nov 18 02:37:30 2014//TOPENBSD_5_7
+/softraid_raid6.c/1.63/Sun Sep 14 14:17:24 2014//TOPENBSD_5_7
+/softraidvar.h/1.159/Tue Jan 27 03:17:36 2015//TOPENBSD_5_7
+/spdmem.c/1.5/Sun Jan 25 11:38:49 2015//TOPENBSD_5_7
+/spdmemvar.h/1.1/Mon Mar 22 21:20:56 2010//TOPENBSD_5_7
+/systrace.c/1.74/Tue Feb 10 22:03:11 2015//TOPENBSD_5_7
+/systrace.h/1.25/Tue Jan 20 01:48:13 2015//TOPENBSD_5_7
+/video.c/1.35/Tue Feb 10 21:56:09 2015//TOPENBSD_5_7
+/video_if.h/1.18/Sat Oct 18 08:01:34 2014//TOPENBSD_5_7
+/videovar.h/1.7/Wed Jul 14 21:24:33 2010//TOPENBSD_5_7
+/vmt.c/1.28/Sat Feb  7 01:19:40 2015//TOPENBSD_5_7
+/vmtvar.h/1.1/Tue Jul  8 05:22:00 2008//TOPENBSD_5_7
+/vnd.c/1.155/Sat Dec 13 21:05:32 2014//TOPENBSD_5_7
+/vndioctl.h/1.8/Wed Sep  3 23:24:25 2008//TOPENBSD_5_7
+/vscsi.c/1.37/Tue Jan 27 03:17:36 2015//TOPENBSD_5_7
+/vscsivar.h/1.5/Tue Apr  5 15:28:49 2011//TOPENBSD_5_7
+D/acpi////
+D/adb////
+D/ata////
+D/atapiscsi////
+D/cardbus////
+D/dec////
+D/eisa////
+D/gpio////
+D/hil////
+D/i2c////
+D/ic////
+D/isa////
+D/microcode////
+D/mii////
+D/ofw////
+D/onewire////
+D/pci////
+D/pckbc////
+D/pcmcia////
+D/puc////
+D/rasops////
+D/sbus////
+D/sdmmc////
+D/sun////
+D/tc////
+D/usb////
+D/vesa////
+D/videomode////
+D/wscons////
+D/wsfont////
+D/x86emu////

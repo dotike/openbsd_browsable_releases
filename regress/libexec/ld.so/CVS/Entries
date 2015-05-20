@@ -1,0 +1,16 @@
+/Makefile/1.15/Sun Sep  7 04:14:25 2014//TOPENBSD_5_7
+D/constructor////
+D/dependencies////
+D/df_1_noopen////
+D/dlclose////
+D/dlopen////
+D/dlsym////
+D/edgecases////
+D/elf////
+D/hidden////
+D/initfirst////
+D/lazy////
+D/link-order////
+D/randomdata////
+D/subst////
+D/weak////

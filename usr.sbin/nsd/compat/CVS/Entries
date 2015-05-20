@@ -1,0 +1,18 @@
+/b64_ntop.c/1.1.1.1/Fri Jan 15 19:25:08 2010//TOPENBSD_5_7
+/b64_pton.c/1.3/Tue Feb  3 10:40:02 2015//TOPENBSD_5_7
+/basename.c/1.1.1.1/Fri Jan 15 19:25:08 2010//TOPENBSD_5_7
+/fake-rfc2553.c/1.1.1.2/Tue Sep 16 16:54:06 2014//TOPENBSD_5_7
+/fake-rfc2553.h/1.1.1.1/Fri Jan 15 19:25:08 2010//TOPENBSD_5_7
+/inet_aton.c/1.2/Mon Jan 12 14:36:48 2015//TOPENBSD_5_7
+/inet_ntop.c/1.1.1.1/Fri Jan 15 19:25:08 2010//TOPENBSD_5_7
+/inet_pton.c/1.1.1.1/Fri Jan 15 19:25:08 2010//TOPENBSD_5_7
+/malloc.c/1.1.1.1/Fri Jan 15 19:25:08 2010//TOPENBSD_5_7
+/memcmp.c/1.1.1.5/Tue Nov 26 12:50:30 2013//TOPENBSD_5_7
+/memcmp.h/1.1.1.1/Mon Jul  9 21:55:08 2012//TOPENBSD_5_7
+/memmove.c/1.1.1.5/Tue Nov 26 12:50:30 2013//TOPENBSD_5_7
+/pselect.c/1.1.1.2/Fri Mar  2 08:38:57 2012//TOPENBSD_5_7
+/snprintf.c/1.4/Thu Mar 13 02:09:34 2014//TOPENBSD_5_7
+/strlcat.c/1.1.1.1/Thu Apr 15 20:57:16 2010//TOPENBSD_5_7
+/strlcpy.c/1.1.1.1/Fri Jan 15 19:25:08 2010//TOPENBSD_5_7
+/strptime.c/1.3/Tue Feb  3 10:40:02 2015//TOPENBSD_5_7
+D

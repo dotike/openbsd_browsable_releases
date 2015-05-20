@@ -1,0 +1,22 @@
+/Makefile/1.21/Mon Dec 22 03:51:08 2014//TOPENBSD_5_7
+/boot.h/1.10/Fri Jan 16 06:47:03 2015//TOPENBSD_5_7
+/crt0.c/1.4/Sat Dec 27 16:04:22 2014//TOPENBSD_5_7
+/crtbegin.c/1.17/Sat Dec 28 18:38:42 2013//TOPENBSD_5_7
+/crtbeginS.c/1.14/Sat Dec 28 18:38:42 2013//TOPENBSD_5_7
+/crtend.c/1.10/Wed Dec  5 23:19:57 2012//TOPENBSD_5_7
+/crtendS.c/1.8/Wed Dec  5 23:19:57 2012//TOPENBSD_5_7
+/extern.h/1.1/Mon Jan 26 20:00:37 2004//TOPENBSD_5_7
+/os-note-elf.h/1.5/Fri Mar  6 23:13:40 2009//TOPENBSD_5_7
+D/alpha////
+D/amd64////
+D/arm////
+D/hppa////
+D/hppa64////
+D/i386////
+D/m88k////
+D/mips64////
+D/powerpc////
+D/sh////
+D/sparc////
+D/sparc64////
+D/vax////

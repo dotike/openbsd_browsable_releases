@@ -1,0 +1,228 @@
+/AUTHORS/1.1.1.14/Mon Nov 17 20:52:31 2014/-ko/TOPENBSD_5_7
+/Artistic/1.3/Mon Mar 25 20:40:40 2013/-ko/TOPENBSD_5_7
+/Changes/1.16/Mon Mar 25 20:40:40 2013/-ko/TOPENBSD_5_7
+/Configure/1.31/Tue Dec 30 20:46:45 2014/-ko/TOPENBSD_5_7
+/Copying/1.1.1.3/Mon Mar 25 20:06:21 2013/-ko/TOPENBSD_5_7
+/DynaLoader.sed/1.4/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/EXTERN.h/1.9/Mon Mar 24 15:05:12 2014/-ko/TOPENBSD_5_7
+/INSTALL/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/INTERN.h/1.8/Mon Sep 29 17:35:56 2008/-ko/TOPENBSD_5_7
+/MANIFEST/1.33/Mon Nov 17 21:03:08 2014/-ko/TOPENBSD_5_7
+/META.json/1.1.1.2/Mon Nov 17 20:52:37 2014/-kb/TOPENBSD_5_7
+/META.yml/1.1.1.11/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/Makefile.SH/1.28/Sat Nov 29 21:47:12 2014/-ko/TOPENBSD_5_7
+/Makefile.bsd-wrapper/1.99/Wed Nov 26 18:27:21 2014//TOPENBSD_5_7
+/Makefile.bsd-wrapper1/1.24/Sun Dec  7 21:10:23 2014//TOPENBSD_5_7
+/Makefile.micro/1.1.1.7/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/Policy_sh.SH/1.1.1.7/Mon Mar 24 14:58:46 2014/-ko/TOPENBSD_5_7
+/README/1.15/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/README.aix/1.1.1.10/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/README.amiga/1.7/Mon Mar 25 20:40:43 2013/-ko/TOPENBSD_5_7
+/README.android/1.1.1.1/Mon Nov 17 20:52:38 2014/-kb/TOPENBSD_5_7
+/README.bs2000/1.1.1.5/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/README.ce/1.1.1.7/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/README.cn/1.1.1.7/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/README.cygwin/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/README.dos/1.1.1.7/Fri Sep 24 14:48:26 2010/-ko/TOPENBSD_5_7
+/README.freebsd/1.1.1.2/Mon Mar 25 20:06:36 2013/-ko/TOPENBSD_5_7
+/README.haiku/1.1.1.5/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/README.hpux/1.1.1.12/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/README.hurd/1.1.1.5/Mon Mar 25 20:06:36 2013/-ko/TOPENBSD_5_7
+/README.irix/1.1.1.4/Mon Mar 25 20:06:36 2013/-ko/TOPENBSD_5_7
+/README.jp/1.1.1.6/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/README.ko/1.1.1.6/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/README.linux/1.1.1.2/Mon Mar 25 20:06:36 2013/-ko/TOPENBSD_5_7
+/README.macos/1.1.1.4/Mon Mar 25 20:06:36 2013/-ko/TOPENBSD_5_7
+/README.macosx/1.1.1.7/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/README.micro/1.1.1.5/Mon Mar 25 20:06:36 2013/-ko/TOPENBSD_5_7
+/README.netware/1.1.1.6/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/README.openbsd/1.1.1.2/Mon Mar 25 20:06:36 2013/-ko/TOPENBSD_5_7
+/README.os2/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/README.os390/1.1.1.7/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/README.os400/1.1.1.2/Mon Mar 25 20:06:37 2013/-ko/TOPENBSD_5_7
+/README.plan9/1.2/Sun Oct 27 22:25:17 2002/-ko/TOPENBSD_5_7
+/README.qnx/1.6/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/README.riscos/1.1.1.2/Mon Mar 25 20:06:37 2013/-ko/TOPENBSD_5_7
+/README.solaris/1.8/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/README.symbian/1.1.1.3/Mon Mar 25 20:06:37 2013/-ko/TOPENBSD_5_7
+/README.synology/1.1.1.1/Mon Nov 17 20:52:39 2014/-kb/TOPENBSD_5_7
+/README.tru64/1.1.1.5/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/README.tw/1.1.1.7/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/README.vms/1.17/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/README.vos/1.1.1.10/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/README.win32/1.15/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/TestInit.pm/1.1.1.2/Mon Mar 25 20:06:41 2013/-ko/TOPENBSD_5_7
+/XSUB.h/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/autodoc.pl/1.1.1.11/Mon Nov 17 20:52:31 2014/-ko/TOPENBSD_5_7
+/av.c/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/av.h/1.13/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/caretx.c/1.1.1.1/Mon Nov 17 20:52:31 2014/-kb/TOPENBSD_5_7
+/cflags.SH/1.14/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/charclass_invlists.h/1.1.1.3/Mon Nov 17 20:52:34 2014/-ko/TOPENBSD_5_7
+/config.over/1.20/Mon Nov 17 21:36:21 2014//TOPENBSD_5_7
+/config_h.SH/1.17/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/configpm/1.19/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/configure.com/1.2/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/configure.gnu/1.10/Mon Mar 25 20:40:43 2013/-ko/TOPENBSD_5_7
+/cop.h/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/cv.h/1.15/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/deb.c/1.15/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/doio.c/1.18/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/doop.c/1.17/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/dosish.h/1.13/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/dquote_static.c/1.1.1.3/Mon Nov 17 20:52:35 2014/-ko/TOPENBSD_5_7
+/dump.c/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/embed.fnc/1.1.1.12/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/embed.h/1.17/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/embedvar.h/1.1.1.14/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/fakesdio.h/1.1.1.5/Mon Mar 24 14:58:44 2014/-ko/TOPENBSD_5_7
+/feature.h/1.1.1.3/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/form.h/1.9/Mon Mar 25 20:40:44 2013/-ko/TOPENBSD_5_7
+/generate_uudmap.c/1.1.1.4/Mon Mar 25 20:06:23 2013/-ko/TOPENBSD_5_7
+/git_version.h/1.7/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/globals.c/1.1.1.12/Mon Mar 24 14:58:44 2014/-ko/TOPENBSD_5_7
+/globvar.sym/1.9/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/gv.c/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/gv.h/1.14/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/handy.h/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/hv.c/1.19/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/hv.h/1.14/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/hv_func.h/1.1.1.2/Mon Nov 17 20:52:36 2014/-kb/TOPENBSD_5_7
+/inline.h/1.1.1.2/Mon Nov 17 20:52:36 2014/-kb/TOPENBSD_5_7
+/inline_invlist.c/1.1.1.2/Mon Nov 17 20:52:36 2014/-kb/TOPENBSD_5_7
+/install_lib.pl/1.1.1.4/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/installhtml/1.13/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/installman/1.13/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/installperl/1.32/Wed Dec 24 04:45:44 2014/-ko/TOPENBSD_5_7
+/intrpvar.h/1.1.1.13/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/iperlsys.h/1.1.1.12/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/keywords.c/1.1.1.2/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/keywords.h/1.10/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/l1_char_class_tab.h/1.1.1.2/Mon Mar 24 14:58:44 2014/-ko/TOPENBSD_5_7
+/locale.c/1.1.1.10/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/madly.c/1.1.1.2/Mon Mar 24 14:58:44 2014/-ko/TOPENBSD_5_7
+/make_ext.pl/1.1.1.5/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/make_patchnum.pl/1.1.1.5/Mon Nov 17 20:52:36 2014/-ko/TOPENBSD_5_7
+/makedef.pl/1.9/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/makedepend.SH/1.11/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/malloc.c/1.15/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/malloc_ctl.h/1.1.1.2/Mon Mar 25 20:06:26 2013/-ko/TOPENBSD_5_7
+/mathoms.c/1.1.1.6/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/metaconfig.SH/1.1.1.1/Mon Mar 25 20:06:27 2013/-ko/TOPENBSD_5_7
+/metaconfig.h/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/mg.c/1.19/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/mg.h/1.14/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/mg_names.c/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/mg_raw.h/1.1.1.3/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/mg_vtable.h/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/miniperlmain.c/1.14/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/mkppport/1.1.1.4/Mon Mar 25 20:06:27 2013/-ko/TOPENBSD_5_7
+/mkppport.lst/1.1.1.5/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/mro.c/1.1.1.6/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/myconfig.SH/1.1.1.8/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/mydtrace.h/1.1.1.3/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/nostdio.h/1.6/Mon Mar 24 15:05:13 2014/-ko/TOPENBSD_5_7
+/numeric.c/1.1.1.10/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/op.c/1.18/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/op.h/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/op_reg_common.h/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/opcode.h/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/opnames.h/1.1.1.12/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/overload.c/1.1.1.5/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/overload.h/1.1.1.4/Mon Mar 24 14:58:45 2014/-ko/TOPENBSD_5_7
+/packsizetables.c/1.1.1.1/Mon Nov 17 20:52:37 2014/-kb/TOPENBSD_5_7
+/pad.c/1.1.1.10/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/pad.h/1.1.1.8/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/parser.h/1.1.1.6/Mon Nov 17 20:52:37 2014/-ko/TOPENBSD_5_7
+/patchlevel.h/1.37/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/perl.c/1.24/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/perl.h/1.19/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/perlapi.c/1.1.1.8/Mon Mar 25 20:06:29 2013/-ko/TOPENBSD_5_7
+/perlapi.h/1.1.1.12/Mon Mar 24 14:58:46 2014/-ko/TOPENBSD_5_7
+/perldtrace.d/1.1.1.3/Mon Mar 24 14:58:46 2014/-ko/TOPENBSD_5_7
+/perlio.c/1.17/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/perlio.h/1.11/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/perlio.sym/1.4/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/perliol.h/1.1.1.8/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/perlsdio.h/1.10/Mon Mar 24 15:05:13 2014/-ko/TOPENBSD_5_7
+/perlvars.h/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/perly.act/1.1.1.6/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/perly.c/1.15/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/perly.h/1.9/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/perly.tab/1.1.1.6/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/perly.y/1.16/Mon Nov 17 20:56:47 2014/-ko/TOPENBSD_5_7
+/pp.c/1.19/Tue Dec 30 20:46:45 2014/-ko/TOPENBSD_5_7
+/pp.h/1.15/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/pp_ctl.c/1.17/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/pp_hot.c/1.17/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/pp_pack.c/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/pp_proto.h/1.1.1.10/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/pp_sort.c/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/TOPENBSD_5_7
+/pp_sys.c/1.16/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/proto.h/1.17/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/reentr.c/1.1.1.10/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/reentr.h/1.1.1.9/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/regcharclass.h/1.1.1.4/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/regcomp.c/1.19/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/regcomp.h/1.14/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/regcomp.sym/1.1.1.7/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/regen.pl/1.1.1.7/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/regen_perly.pl/1.1.1.4/Mon Mar 24 14:58:47 2014/-ko/TOPENBSD_5_7
+/regexec.c/1.17/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/regexp.h/1.13/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/regnodes.h/1.1.1.10/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/run.c/1.13/Mon Mar 24 15:05:13 2014/-ko/TOPENBSD_5_7
+/runtests.SH/1.1.1.3/Mon Nov 17 20:52:39 2014/-ko/TOPENBSD_5_7
+/scope.c/1.16/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/scope.h/1.16/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/shlib_version/1.18/Mon Nov 17 23:22:14 2014/-ko/TOPENBSD_5_7
+/sv.c/1.20/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/sv.h/1.17/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/taint.c/1.16/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/thread.h/1.1.1.12/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+/time64.c/1.1.1.4/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+/time64.h/1.1.1.2/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+/time64_config.h/1.1.1.1/Fri Sep 24 14:48:32 2010/-ko/TOPENBSD_5_7
+/toke.c/1.18/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/uconfig.h/1.5/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/uconfig.sh/1.5/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/uconfig64.sh/1.5/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/unicode_constants.h/1.1.1.2/Mon Nov 17 20:52:40 2014/-kb/TOPENBSD_5_7
+/universal.c/1.17/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/unixish.h/1.12/Mon Mar 24 15:05:13 2014/-ko/TOPENBSD_5_7
+/utf8.c/1.1.1.13/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+/utf8.h/1.1.1.11/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+/utfebcdic.h/1.1.1.9/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+/util.c/1.21/Mon Nov 17 21:00:55 2014/-ko/TOPENBSD_5_7
+/util.h/1.14/Mon Nov 17 20:56:48 2014/-ko/TOPENBSD_5_7
+/utils.lst/1.11/Tue Jan 27 15:52:54 2015/-ko/TOPENBSD_5_7
+/vutil.c/1.2/Mon Nov 17 21:00:55 2014/-kb/TOPENBSD_5_7
+/vutil.h/1.1.1.1/Mon Nov 17 20:52:40 2014/-kb/TOPENBSD_5_7
+/vxs.inc/1.1.1.1/Mon Nov 17 20:52:40 2014/-kb/TOPENBSD_5_7
+/warnings.h/1.1.1.9/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+/write_buildcustomize.pl/1.1.1.2/Mon Nov 17 20:52:40 2014/-ko/TOPENBSD_5_7
+D/Cross////
+D/NetWare////
+D/Porting////
+D/cpan////
+D/cygwin////
+D/dist////
+D/djgpp////
+D/ext////
+D/h2pl////
+D/haiku////
+D/hints////
+D/lib////
+D/mad////
+D/os2////
+D/plan9////
+D/pod////
+D/qnx////
+D/regen////
+D/symbian////
+D/t////
+D/utils////
+D/vms////
+D/vos////
+D/win32////
+D/x2p////

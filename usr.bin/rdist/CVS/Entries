@@ -1,0 +1,20 @@
+/Makefile/1.19/Sat Jul 12 03:32:00 2014//TOPENBSD_5_7
+/child.c/1.25/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/client.c/1.34/Wed Jan 21 03:18:31 2015//TOPENBSD_5_7
+/client.h/1.1/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/common.c/1.36/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/config.h/1.13/Wed Jan 21 04:08:37 2015//TOPENBSD_5_7
+/defs.h/1.36/Wed Jan 21 03:05:03 2015//TOPENBSD_5_7
+/distopt.c/1.13/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/docmd.c/1.32/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/expand.c/1.15/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/gram.y/1.12/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/isexec.c/1.10/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/lookup.c/1.15/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/message.c/1.27/Tue Jan 20 09:00:16 2015//TOPENBSD_5_7
+/pathnames.h/1.8/Tue Jun  3 02:56:14 2003//TOPENBSD_5_7
+/rdist.1/1.45/Thu Jul 10 14:29:27 2014//TOPENBSD_5_7
+/rdist.c/1.30/Sun Feb  8 23:40:34 2015//TOPENBSD_5_7
+/types.h/1.8/Wed Jan 21 03:18:31 2015//TOPENBSD_5_7
+/version.h/1.7/Tue Jun  3 02:56:15 2003//TOPENBSD_5_7
+D

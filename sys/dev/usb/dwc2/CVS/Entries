@@ -1,0 +1,14 @@
+/dwc2.c/1.22/Sat Feb 14 05:52:19 2015//TOPENBSD_5_7
+/dwc2.h/1.11/Thu Feb 12 07:51:51 2015//TOPENBSD_5_7
+/dwc2_core.c/1.5/Thu Feb 12 11:38:42 2015//TOPENBSD_5_7
+/dwc2_core.h/1.8/Thu Feb 12 11:38:42 2015//TOPENBSD_5_7
+/dwc2_coreintr.c/1.6/Thu Feb 12 06:46:23 2015//TOPENBSD_5_7
+/dwc2_hcd.c/1.14/Thu Feb 12 11:42:58 2015//TOPENBSD_5_7
+/dwc2_hcd.h/1.11/Thu Feb 12 11:42:58 2015//TOPENBSD_5_7
+/dwc2_hcdddma.c/1.9/Thu Feb 12 06:46:23 2015//TOPENBSD_5_7
+/dwc2_hcdintr.c/1.5/Thu Feb 12 06:46:23 2015//TOPENBSD_5_7
+/dwc2_hcdqueue.c/1.6/Thu Feb 12 06:46:23 2015//TOPENBSD_5_7
+/dwc2_hw.h/1.2/Tue Feb 10 12:58:47 2015//TOPENBSD_5_7
+/dwc2var.h/1.14/Thu Feb 12 11:38:42 2015//TOPENBSD_5_7
+/files.dwc2/1.2/Tue Feb 10 12:51:42 2015//TOPENBSD_5_7
+D

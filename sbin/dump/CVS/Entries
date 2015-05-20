@@ -1,0 +1,11 @@
+/Makefile/1.12/Fri Jul 11 16:01:41 2014//TOPENBSD_5_7
+/dump.8/1.48/Thu Jul 17 19:58:05 2014//TOPENBSD_5_7
+/dump.h/1.22/Wed Sep  3 02:34:34 2014//TOPENBSD_5_7
+/dumprmt.c/1.29/Fri Jan 16 06:39:57 2015//TOPENBSD_5_7
+/itime.c/1.19/Fri Jan 16 06:39:57 2015//TOPENBSD_5_7
+/main.c/1.54/Tue Jan 20 18:22:20 2015//TOPENBSD_5_7
+/optr.c/1.35/Fri Jan 16 06:39:57 2015//TOPENBSD_5_7
+/pathnames.h/1.6/Mon Jun  2 20:06:14 2003//TOPENBSD_5_7
+/tape.c/1.42/Tue Jan 20 18:22:20 2015//TOPENBSD_5_7
+/traverse.c/1.38/Tue Jan 20 18:22:20 2015//TOPENBSD_5_7
+D

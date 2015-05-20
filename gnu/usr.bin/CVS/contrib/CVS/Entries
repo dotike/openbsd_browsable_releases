@@ -1,0 +1,27 @@
+/.cvsignore/1.1.1.5/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/ChangeLog/1.1.1.14/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/Makefile.am/1.2/Sun Sep 30 20:31:00 2001//TOPENBSD_5_7
+/Makefile.in/1.13/Tue Jun 10 21:06:17 2003//TOPENBSD_5_7
+/README/1.1.1.9/Sun Feb 28 21:34:13 1999//TOPENBSD_5_7
+/clmerge.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/cln_hist.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/commit_prep.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/cvs2vendor.sh/1.1.1.1/Tue Mar 18 01:56:50 1997//TOPENBSD_5_7
+/cvs_acls.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/cvscheck.man/1.1.1.2/Tue Mar 18 01:56:52 1997//TOPENBSD_5_7
+/cvscheck.sh/1.1.1.2/Tue Mar 18 01:56:51 1997//TOPENBSD_5_7
+/cvshelp.man/1.1.1.2/Tue Mar 18 01:56:52 1997//TOPENBSD_5_7
+/debug_check_log.sh/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/descend.man/1.1.1.2/Tue Mar 18 01:56:54 1997//TOPENBSD_5_7
+/descend.sh/1.1.1.2/Tue Mar 18 01:56:53 1997//TOPENBSD_5_7
+/dirfns.shar/1.1.1.1/Tue Dec 19 09:21:40 1995//TOPENBSD_5_7
+/intro.doc/1.1.1.1/Tue Dec 19 09:21:39 1995//TOPENBSD_5_7
+/log.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/log_accum.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/mfpipe.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/rcs-to-cvs.sh/1.1.1.2/Tue Mar 18 01:56:56 1997//TOPENBSD_5_7
+/rcs2log.sh/1.2/Tue Aug  7 22:00:56 2001//TOPENBSD_5_7
+/rcs2sccs.sh/1.1.1.2/Tue Mar 18 01:56:58 1997//TOPENBSD_5_7
+/rcslock.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+/sccs2rcs.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_5_7
+D

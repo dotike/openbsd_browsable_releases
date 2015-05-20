@@ -1,0 +1,27 @@
+/Makefile/1.8/Fri May 31 03:46:35 2002//TOPENBSD_5_7
+/battlestar.6/1.16/Tue Feb 17 16:29:16 2015//TOPENBSD_5_7
+/battlestar.c/1.16/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/com1.c/1.14/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/com2.c/1.17/Thu Dec 10 23:53:03 2009//TOPENBSD_5_7
+/com3.c/1.13/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/com4.c/1.14/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/com5.c/1.12/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/com6.c/1.19/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/com7.c/1.12/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/cypher.c/1.17/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/dayfile.c/1.12/Sun Nov 22 09:16:02 2009//TOPENBSD_5_7
+/dayobjs.c/1.7/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/extern.h/1.17/Sun Nov 16 04:50:46 2014//TOPENBSD_5_7
+/fly.c/1.13/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/getcom.c/1.14/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/globals.c/1.14/Fri Apr  5 01:28:27 2013//TOPENBSD_5_7
+/init.c/1.14/Thu Aug 29 20:22:10 2013//TOPENBSD_5_7
+/misc.c/1.8/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/nightfile.c/1.11/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/nightobjs.c/1.7/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/parse.c/1.15/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/pathnames.h/1.4/Tue Jun  3 03:01:38 2003//TOPENBSD_5_7
+/room.c/1.10/Sun Oct 26 07:03:47 2014//TOPENBSD_5_7
+/save.c/1.11/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+/words.c/1.10/Tue Oct 27 23:59:24 2009//TOPENBSD_5_7
+D

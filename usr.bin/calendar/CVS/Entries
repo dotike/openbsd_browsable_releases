@@ -1,0 +1,11 @@
+/Makefile/1.9/Fri Dec 10 20:47:30 2004//TOPENBSD_5_7
+/calendar.1/1.36/Fri Mar 15 08:37:10 2013//TOPENBSD_5_7
+/calendar.c/1.29/Sun Feb  8 23:40:34 2015//TOPENBSD_5_7
+/calendar.h/1.13/Wed Apr 28 18:20:15 2010//TOPENBSD_5_7
+/day.c/1.27/Tue Nov 26 13:18:53 2013//TOPENBSD_5_7
+/io.c/1.37/Fri Jan 16 06:40:06 2015//TOPENBSD_5_7
+/ostern.c/1.7/Tue Oct 27 23:59:36 2009//TOPENBSD_5_7
+/paskha.c/1.6/Tue Oct 27 23:59:36 2009//TOPENBSD_5_7
+/pathnames.h/1.5/Wed Jul 30 16:46:17 2014//TOPENBSD_5_7
+/pesach.c/1.3/Tue Oct 27 23:59:36 2009//TOPENBSD_5_7
+D/calendars////

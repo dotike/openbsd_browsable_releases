@@ -1,0 +1,6 @@
+/Makefile.inc/1.2/Tue Sep  4 03:10:42 2012//TOPENBSD_5_7
+/htonl.S/1.1/Wed Jan 28 01:44:45 2004//TOPENBSD_5_7
+/htons.S/1.2/Tue Feb 10 00:08:11 2004//TOPENBSD_5_7
+/ntohl.S/1.2/Tue Feb 10 00:08:11 2004//TOPENBSD_5_7
+/ntohs.S/1.2/Tue Feb 10 00:08:11 2004//TOPENBSD_5_7
+D

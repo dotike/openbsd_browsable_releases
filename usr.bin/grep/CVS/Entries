@@ -1,0 +1,10 @@
+/Makefile/1.6/Wed Jun 25 15:00:04 2003//TOPENBSD_5_7
+/binary.c/1.18/Tue Nov 12 22:50:42 2013//TOPENBSD_5_7
+/file.c/1.12/Fri Jan 16 06:40:08 2015//TOPENBSD_5_7
+/grep.1/1.43/Tue Jan 13 04:45:34 2015//TOPENBSD_5_7
+/grep.c/1.49/Sat Jan 10 13:48:02 2015//TOPENBSD_5_7
+/grep.h/1.21/Sat Jan 10 13:48:02 2015//TOPENBSD_5_7
+/mmfile.c/1.17/Fri Feb  6 23:21:59 2015//TOPENBSD_5_7
+/queue.c/1.7/Fri Jan 16 06:40:08 2015//TOPENBSD_5_7
+/util.c/1.49/Mon Dec  1 06:36:04 2014//TOPENBSD_5_7
+D

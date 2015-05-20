@@ -1,0 +1,74 @@
+/MAKEDEV.common/1.78/Thu Dec 11 19:46:15 2014//TOPENBSD_5_7
+/MAKEDEV.man/1.7/Wed Mar 18 17:34:25 2009//TOPENBSD_5_7
+/MAKEDEV.mansub/1.2/Fri Feb 20 19:13:01 2004//TOPENBSD_5_7
+/MAKEDEV.mi/1.81/Mon Nov  5 08:07:09 2012//TOPENBSD_5_7
+/MAKEDEV.sub/1.14/Mon Feb  7 06:14:18 2005//TOPENBSD_5_7
+/Makefile/1.400/Wed Dec  3 20:13:49 2014//TOPENBSD_5_7
+/Makefile.inc/1.7/Wed Jun 16 23:33:38 2010//TOPENBSD_5_7
+/changelist/1.103/Thu Oct  2 09:02:48 2014//TOPENBSD_5_7
+/crontab/1.21/Mon Sep 15 22:28:58 2014//TOPENBSD_5_7
+/csh.cshrc/1.2/Sun May 26 10:25:19 1996//TOPENBSD_5_7
+/csh.login/1.2/Sun May 26 10:25:19 1996//TOPENBSD_5_7
+/csh.logout/1.2/Sun May 26 10:25:20 1996//TOPENBSD_5_7
+/daily/1.82/Mon Nov 17 18:19:08 2014//TOPENBSD_5_7
+/fbtab.head/1.2/Wed May  5 06:56:34 1999//TOPENBSD_5_7
+/fbtab.tail/1.2/Sat Aug 24 21:07:30 1996//TOPENBSD_5_7
+/ftpusers/1.50/Mon Mar 17 21:01:02 2014//TOPENBSD_5_7
+/gettytab/1.5/Tue Dec 10 20:56:59 2013//TOPENBSD_5_7
+/group/1.70/Fri Oct 17 14:18:45 2014//TOPENBSD_5_7
+/ksh.kshrc/1.20/Wed Feb 18 08:39:32 2015//TOPENBSD_5_7
+/locate.rc/1.6/Thu Sep 18 09:20:13 2003//TOPENBSD_5_7
+/mailer.conf/1.6/Thu Mar 27 13:52:45 2014//TOPENBSD_5_7
+/man.conf/1.22/Tue Jan 20 19:17:28 2015//TOPENBSD_5_7
+/master.passwd/1.79/Tue Feb 17 09:56:54 2015//TOPENBSD_5_7
+/minfree/1.1/Mon Dec 18 15:18:15 1995//TOPENBSD_5_7
+/moduli/1.11/Mon Oct 14 02:57:58 2013//TOPENBSD_5_7
+/moduli.6144/1.2/Sat Mar 23 12:42:10 2013//TOPENBSD_5_7
+/moduli.8192/1.2/Sat Mar 23 12:42:10 2013//TOPENBSD_5_7
+/monthly/1.13/Wed Jan 19 06:18:05 2011//TOPENBSD_5_7
+/motd/1.8/Sun Jan 11 14:08:38 1998//TOPENBSD_5_7
+/netstart/1.144/Wed Dec  3 19:55:49 2014//TOPENBSD_5_7
+/networks/1.5/Mon Sep 15 09:54:52 1997//TOPENBSD_5_7
+/newsyslog.conf/1.33/Wed Aug 27 13:46:32 2014//TOPENBSD_5_7
+/nsd.conf/1.8/Fri Jul 11 21:40:31 2014//TOPENBSD_5_7
+/pf.conf/1.54/Sat Aug 23 05:49:42 2014//TOPENBSD_5_7
+/pf.os/1.26/Fri Aug  3 12:25:16 2012//TOPENBSD_5_7
+/protocols/1.24/Sat Jul 12 14:38:38 2014//TOPENBSD_5_7
+/rc/1.447/Thu Jan 22 19:00:24 2015//TOPENBSD_5_7
+/rc.conf/1.200/Wed Dec  3 20:13:49 2014//TOPENBSD_5_7
+/rpc/1.6/Thu Mar 13 15:22:21 2014//TOPENBSD_5_7
+/services/1.93/Wed Dec 31 11:52:22 2014//TOPENBSD_5_7
+/shells/1.8/Sat Feb 14 17:06:40 2009//TOPENBSD_5_7
+/syslog.conf/1.17/Wed May 25 07:35:38 2005//TOPENBSD_5_7
+/ttys.pty/1.6/Wed Jul 16 14:34:33 2014//TOPENBSD_5_7
+/unbound.conf/1.4/Wed Apr  2 21:43:30 2014//TOPENBSD_5_7
+/weekly/1.26/Fri Apr 18 10:00:48 2014//TOPENBSD_5_7
+D/amd////
+D/etc.alpha////
+D/etc.amd64////
+D/etc.armish////
+D/etc.armv7////
+D/etc.aviion////
+D/etc.hppa////
+D/etc.hppa64////
+D/etc.i386////
+D/etc.landisk////
+D/etc.loongson////
+D/etc.luna88k////
+D/etc.macppc////
+D/etc.octeon////
+D/etc.sgi////
+D/etc.socppc////
+D/etc.sparc////
+D/etc.sparc64////
+D/etc.vax////
+D/etc.zaurus////
+D/examples////
+D/mail////
+D/mtree////
+D/ppp////
+D/rc.d////
+D/root////
+D/signify////
+D/skel////
+D/systrace////
