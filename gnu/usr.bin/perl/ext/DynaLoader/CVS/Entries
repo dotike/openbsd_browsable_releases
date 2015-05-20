@@ -1,0 +1,17 @@
+/DynaLoader_pm.PL/1.1.1.11/Mon Mar 24 14:59:01 2014/-ko/
+/Makefile.PL/1.9/Mon Mar 25 20:40:54 2013/-ko/
+/README/1.1.1.1/Mon Aug 19 10:12:02 1996/-ko/
+/dl_aix.xs/1.11/Mon Mar 24 15:05:27 2014/-ko/
+/dl_dld.xs/1.10/Fri Sep 24 15:06:56 2010/-ko/
+/dl_dllload.xs/1.1.1.5/Mon Mar 24 14:59:01 2014/-ko/
+/dl_dlopen.xs/1.11/Mon Mar 25 20:40:54 2013/-ko/
+/dl_dyld.xs/1.1.1.6/Mon Oct 12 18:11:11 2009/-ko/
+/dl_hpux.xs/1.9/Mon Mar 24 15:05:27 2014/-ko/
+/dl_next.xs/1.9/Mon Mar 24 15:05:27 2014/-ko/
+/dl_none.xs/1.1.1.1/Mon Aug 19 10:12:03 1996/-ko/
+/dl_symbian.xs/1.1.1.2/Mon Oct 12 18:11:11 2009/-ko/
+/dl_vms.xs/1.10/Mon Mar 24 15:05:27 2014/-ko/
+/dl_win32.xs/1.1.1.3/Mon Mar 24 14:59:01 2014/-ko/
+/dlutils.c/1.10/Mon Mar 25 20:40:54 2013/-ko/
+D/hints////
+D/t////

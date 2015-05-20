@@ -1,0 +1,15 @@
+/Makefile/1.14/Fri Apr  5 13:01:17 2013//
+D/constructor////
+D/df_1_noopen////
+D/dlclose////
+D/dlopen////
+D/dlsym////
+D/edgecases////
+D/elf////
+D/hidden////
+D/initfirst////
+D/lazy////
+D/link-order////
+D/randomdata////
+D/subst////
+D/weak////

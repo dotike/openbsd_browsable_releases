@@ -1,0 +1,18 @@
+/Makefile/1.7/Mon Jul  7 21:35:42 2014//
+/breaking.in/1.1/Sat Jul  7 17:47:59 2012//
+/breaking.out_ascii/1.1/Sat Jul  7 17:47:59 2012//
+/empty.in/1.1/Wed Jul 18 16:55:54 2012//
+/empty.out_ascii/1.1/Wed Jul 18 16:55:54 2012//
+/literal.in/1.1/Sat Jan  5 22:18:59 2013//
+/literal.out_ascii/1.1/Sat Jan  5 22:19:00 2013//
+/lonelyRE.in/1.1/Mon Nov 11 00:35:51 2013//
+/lonelyRE.out_ascii/1.1/Mon Nov 11 00:35:51 2013//
+/lonelyRE.out_lint/1.1/Mon Jul  7 21:35:42 2014//
+/nested.in/1.1/Sun Nov 18 17:59:03 2012//
+/nested.out_ascii/1.1/Sun Nov 18 17:59:03 2012//
+/noRE.in/1.1/Mon Jul  7 21:35:42 2014//
+/noRE.out_ascii/1.1/Mon Jul  7 21:35:42 2014//
+/noRE.out_lint/1.1/Mon Jul  7 21:35:42 2014//
+/width.in/1.1/Sun Feb 16 12:30:52 2014//
+/width.out_ascii/1.1/Sun Feb 16 12:30:52 2014//
+D

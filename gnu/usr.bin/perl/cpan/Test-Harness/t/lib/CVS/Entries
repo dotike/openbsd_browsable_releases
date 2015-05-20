@@ -1,0 +1,15 @@
+/EmptyParser.pm/1.1.1.2/Mon Mar 25 20:08:16 2013/-ko/
+/MyCustom.pm/1.1.1.2/Mon Mar 25 20:08:16 2013/-ko/
+/MyFileSourceHandler.pm/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/
+/MyGrammar.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/MyIterator.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/MyPerlSourceHandler.pm/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/
+/MyResult.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/MyResultFactory.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/MySourceHandler.pm/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/
+/NOP.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/NoFork.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+D/App////
+D/Dev////
+D/IO////
+D/TAP////

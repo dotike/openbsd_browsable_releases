@@ -1,0 +1,24 @@
+/README/1.6/Mon Sep 29 17:36:18 2008/-ko/
+/TEST/1.15/Mon Mar 24 15:05:33 2014/-ko/
+/harness/1.13/Mon Mar 24 15:05:33 2014/-ko/
+/perl.supp/1.1.1.2/Mon Sep 29 17:18:58 2008/-ko/
+/test.pl/1.1.1.11/Mon Mar 24 14:59:09 2014/-ko/
+/thread_it.pl/1.1.1.2/Mon Mar 25 20:09:32 2013/-ko/
+D/base////
+D/benchmark////
+D/bigmem////
+D/cmd////
+D/comp////
+D/io////
+D/japh////
+D/lib////
+D/mro////
+D/op////
+D/opbasic////
+D/porting////
+D/re////
+D/run////
+D/test_pl////
+D/uni////
+D/win32////
+D/x2p////

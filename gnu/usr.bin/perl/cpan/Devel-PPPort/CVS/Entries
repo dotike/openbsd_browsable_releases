@@ -1,0 +1,19 @@
+/Changes/1.1.1.2/Mon Mar 25 20:06:58 2013/-ko/
+/HACKERS/1.1.1.2/Mon Mar 25 20:06:58 2013/-ko/
+/MANIFEST.SKIP/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/
+/Makefile.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/PPPort.xs/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/
+/PPPort_pm.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/PPPort_xs.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/README/1.1.1.2/Mon Mar 25 20:06:59 2013/-ko/
+/TODO/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/
+/apicheck_c.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/mktests.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/module2.c/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/module3.c/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/ppport_h.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/soak/1.3/Mon Mar 25 20:40:48 2013/-ko/
+/typemap/1.3/Mon Mar 25 20:40:48 2013/-ko/
+D/devel////
+D/parts////
+D/t////

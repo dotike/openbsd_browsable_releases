@@ -1,0 +1,78 @@
+/MAKEDEV.common/1.75/Tue Jul 15 17:36:13 2014//
+/MAKEDEV.man/1.7/Wed Mar 18 17:34:25 2009//
+/MAKEDEV.mansub/1.2/Fri Feb 20 19:13:01 2004//
+/MAKEDEV.mi/1.81/Mon Nov  5 08:07:09 2012//
+/MAKEDEV.sub/1.14/Mon Feb  7 06:14:18 2005//
+/Makefile.inc/1.7/Wed Jun 16 23:33:38 2010//
+/crontab/1.20/Wed Mar 12 18:21:34 2014//
+/csh.cshrc/1.2/Sun May 26 10:25:19 1996//
+/csh.login/1.2/Sun May 26 10:25:19 1996//
+/csh.logout/1.2/Sun May 26 10:25:20 1996//
+/daily/1.81/Wed Jul  2 13:39:41 2014//
+/dhclient.conf/1.2/Mon Apr  4 11:14:52 2011//
+/fbtab.head/1.2/Wed May  5 06:56:34 1999//
+/fbtab.tail/1.2/Sat Aug 24 21:07:30 1996//
+/ftpusers/1.50/Mon Mar 17 21:01:02 2014//
+/gettytab/1.5/Tue Dec 10 20:56:59 2013//
+/group/1.67/Sun Apr 27 10:07:29 2014//
+/hosts/1.12/Tue Mar 10 00:42:13 2009//
+/ksh.kshrc/1.19/Fri Jul 11 21:12:39 2014//
+/locate.rc/1.6/Thu Sep 18 09:20:13 2003//
+/mailer.conf/1.6/Thu Mar 27 13:52:45 2014//
+/man.conf/1.20/Mon Feb 24 20:11:53 2014//
+/master.passwd/1.76/Sun Apr 27 10:07:29 2014//
+/minfree/1.1/Mon Dec 18 15:18:15 1995//
+/moduli/1.11/Mon Oct 14 02:57:58 2013//
+/moduli.6144/1.2/Sat Mar 23 12:42:10 2013//
+/moduli.8192/1.2/Sat Mar 23 12:42:10 2013//
+/monthly/1.13/Wed Jan 19 06:18:05 2011//
+/motd/1.8/Sun Jan 11 14:08:38 1998//
+/myname/1.4/Thu Sep 26 23:35:51 2002//
+/netstart/1.141/Sat Jul 12 14:39:31 2014//
+/networks/1.5/Mon Sep 15 09:54:52 1997//
+/newsyslog.conf/1.31/Fri Mar 21 13:22:09 2014//
+/nsd.conf/1.8/Fri Jul 11 21:40:31 2014//
+/pf.conf/1.53/Sat Jan 25 10:28:36 2014//
+/pf.os/1.26/Fri Aug  3 12:25:16 2012//
+/protocols/1.24/Sat Jul 12 14:38:38 2014//
+/rpc/1.6/Thu Mar 13 15:22:21 2014//
+/services/1.89/Tue Jul 15 15:58:39 2014//
+/shells/1.8/Sat Feb 14 17:06:40 2009//
+/syslog.conf/1.17/Wed May 25 07:35:38 2005//
+/ttys.pty/1.6/Wed Jul 16 14:34:33 2014//
+/unbound.conf/1.4/Wed Apr  2 21:43:30 2014//
+/weekly/1.26/Fri Apr 18 10:00:48 2014//
+D/amd////
+D/bind////
+D/etc.alpha////
+D/etc.amd64////
+D/etc.armish////
+D/etc.armv7////
+D/etc.aviion////
+D/etc.hppa////
+D/etc.hppa64////
+D/etc.i386////
+D/etc.landisk////
+D/etc.loongson////
+D/etc.luna88k////
+D/etc.macppc////
+D/etc.octeon////
+D/etc.sgi////
+D/etc.socppc////
+D/etc.sparc////
+D/etc.sparc64////
+D/etc.vax////
+D/etc.zaurus////
+D/examples////
+D/mail////
+D/mtree////
+D/ppp////
+D/rc.d////
+D/root////
+D/signify////
+D/skel////
+D/systrace////
+/changelist/1.98/Wed Jul 23 07:07:49 2014//
+/rc.conf/1.195/Wed Jul 23 07:07:49 2014//
+/Makefile/1.388/Wed Jul 23 17:07:48 2014//
+/rc/1.438/Tue Aug  5 07:11:57 2014//

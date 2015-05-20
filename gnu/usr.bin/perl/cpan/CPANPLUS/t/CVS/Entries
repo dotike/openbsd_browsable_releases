@@ -1,0 +1,20 @@
+/00_CPANPLUS-Internals-Utils.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/01_CPANPLUS-Configure.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/02_CPANPLUS-Internals.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/03_CPANPLUS-Internals-Source.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/04_CPANPLUS-Module.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/05_CPANPLUS-Internals-Fetch.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/06_CPANPLUS-Internals-Constants.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/07_CPANPLUS-Internals-Extract.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/08_CPANPLUS-Backend.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/09_CPANPLUS-Internals-Search.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/10_CPANPLUS-Error.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/15_CPANPLUS-Shell.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/19_CPANPLUS-Dist.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/20_CPANPLUS-Dist-MM.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/21_CPANPLUS-Dist-No-Build.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/25_CPANPLUS.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/30_CPANPLUS-Internals-Selfupdate.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+/40_CPANPLUS-Internals-Report.t/1.1.1.2/Mon Mar 25 20:06:57 2013/-ko/
+D/dummy-CPAN////
+D/inc////

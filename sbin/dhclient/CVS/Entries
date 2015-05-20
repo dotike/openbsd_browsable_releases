@@ -1,0 +1,22 @@
+/Makefile/1.15/Fri Nov 23 15:50:11 2012//
+/bpf.c/1.32/Thu Apr 17 09:59:30 2014//
+/clparse.c/1.87/Mon May 12 13:12:41 2014//
+/conflex.c/1.29/Mon May  5 18:02:49 2014//
+/convert.c/1.7/Sun Jan 19 21:10:04 2014//
+/dhclient.8/1.25/Sun Apr 20 21:25:07 2014//
+/dhclient.c/1.318/Sun Jul 13 14:50:03 2014//
+/dhclient.conf.5/1.31/Mon Nov 11 15:39:20 2013//
+/dhclient.leases.5/1.9/Tue Jul 16 09:45:28 2013//
+/dhcp.h/1.17/Tue Jan 21 03:07:50 2014//
+/dhcpd.h/1.139/Fri May 23 15:26:22 2014//
+/dhctoken.h/1.9/Thu Dec  5 22:31:35 2013//
+/dispatch.c/1.90/Mon May  5 18:02:49 2014//
+/errwarn.c/1.22/Mon Jan 20 10:17:20 2014//
+/kroute.c/1.67/Mon Jul 14 18:16:27 2014//
+/parse.c/1.38/Mon May  5 18:02:49 2014//
+/privsep.c/1.36/Sun Feb  9 14:21:17 2014//
+/privsep.h/1.23/Tue Dec 10 17:02:35 2013//
+/tables.c/1.18/Tue Jan 21 03:07:50 2014//
+/options.c/1.70/Mon Jul 28 17:12:23 2014//
+/packet.c/1.27/Mon Jul 28 17:12:23 2014//
+D

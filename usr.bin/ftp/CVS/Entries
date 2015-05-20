@@ -1,0 +1,22 @@
+/Makefile/1.26/Mon Jul 14 09:26:27 2014//
+/cmds.c/1.71/Mon Oct 15 21:20:05 2012//
+/cmds.h/1.1/Tue May  5 19:35:30 2009//
+/cmdtab.c/1.27/Sun Jan  6 22:12:28 2013//
+/complete.c/1.27/Wed Apr 23 11:47:04 2014//
+/cookie.c/1.5/Tue May  5 19:35:30 2009//
+/domacro.c/1.17/Tue May  5 19:35:30 2009//
+/extern.h/1.42/Thu Jan 23 00:39:15 2014//
+/fetch.c/1.126/Mon Jul 14 09:26:27 2014//
+/ftp.1/1.93/Fri Jul 11 03:31:52 2014//
+/ftp.c/1.86/Tue May 20 01:25:23 2014//
+/ftp_var.h/1.35/Mon Jul 14 09:26:27 2014//
+/list.c/1.7/Wed Nov 13 20:41:14 2013//
+/main.c/1.92/Wed Jul 16 04:52:43 2014//
+/pathnames.h/1.7/Tue Jun  3 02:56:08 2003//
+/ruserpass.c/1.29/Tue May 20 01:25:23 2014//
+/small.c/1.1/Tue May  5 19:35:30 2009//
+/small.h/1.1/Tue May  5 19:35:30 2009//
+/stringlist.c/1.10/Tue May  5 19:35:30 2009//
+/stringlist.h/1.4/Wed Dec  5 23:20:25 2012//
+/util.c/1.66/Wed Jan 29 16:58:21 2014//
+D

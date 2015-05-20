@@ -1,0 +1,20 @@
+/Makefile/1.19/Sat Jul 12 03:32:00 2014//
+/child.c/1.23/Sat Jul  5 07:57:43 2014//
+/client.c/1.31/Sat Jul 12 03:48:04 2014//
+/common.c/1.33/Sat Jul 12 03:32:00 2014//
+/config.h/1.10/Sat Jul 12 03:32:00 2014//
+/defs.h/1.31/Sat Jul 12 03:48:04 2014//
+/distopt.c/1.11/Tue Oct 27 23:59:42 2009//
+/docmd.c/1.31/Sat Jul 12 03:48:04 2014//
+/expand.c/1.14/Sat Jul  5 06:45:00 2014//
+/filesys.h/1.4/Sat Jul  5 10:21:24 2014//
+/gram.y/1.11/Sat Jun  7 15:28:21 2014//
+/isexec.c/1.9/Sat Jul  5 05:31:35 2014//
+/lookup.c/1.14/Mon Nov 12 01:14:41 2012//
+/message.c/1.21/Sat Jul  5 06:18:58 2014//
+/pathnames.h/1.8/Tue Jun  3 02:56:14 2003//
+/rdist.1/1.45/Thu Jul 10 14:29:27 2014//
+/rdist.c/1.28/Sat Jul 12 03:32:00 2014//
+/types.h/1.5/Wed May 14 01:34:35 2003//
+/version.h/1.7/Tue Jun  3 02:56:15 2003//
+D
