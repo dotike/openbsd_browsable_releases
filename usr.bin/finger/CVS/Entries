@@ -1,0 +1,10 @@
+/Makefile/1.2/Wed Jun 26 05:33:14 1996//TOPENBSD_5_7
+/extern.h/1.9/Wed Nov 19 22:07:13 2014//TOPENBSD_5_7
+/finger.1/1.19/Thu Nov 14 08:50:04 2013//TOPENBSD_5_7
+/finger.c/1.19/Fri Jan 16 06:40:07 2015//TOPENBSD_5_7
+/finger.h/1.7/Mon Jan 19 15:30:52 2015//TOPENBSD_5_7
+/lprint.c/1.11/Fri Oct 17 20:19:15 2014//TOPENBSD_5_7
+/net.c/1.13/Fri Jan 16 06:40:07 2015//TOPENBSD_5_7
+/sprint.c/1.14/Fri Oct 17 20:19:15 2014//TOPENBSD_5_7
+/util.c/1.30/Fri Jan 16 06:40:07 2015//TOPENBSD_5_7
+D

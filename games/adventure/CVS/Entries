@@ -1,0 +1,16 @@
+/Makefile/1.5/Thu May 23 18:42:59 2002//TOPENBSD_5_7
+/adventure.6/1.9/Mon Sep  8 01:27:54 2014//TOPENBSD_5_7
+/crc.c/1.7/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/done.c/1.8/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/extern.h/1.7/Fri Jul  9 15:59:26 2004//TOPENBSD_5_7
+/glorkz/1.1.1.1/Wed Oct 18 08:48:35 1995//TOPENBSD_5_7
+/hdr.h/1.14/Mon Dec  8 21:56:27 2014//TOPENBSD_5_7
+/init.c/1.13/Wed Dec 31 15:45:57 2014//TOPENBSD_5_7
+/io.c/1.19/Mon Dec  8 21:56:27 2014//TOPENBSD_5_7
+/main.c/1.20/Sun Nov 16 04:49:48 2014//TOPENBSD_5_7
+/save.c/1.10/Mon Dec  8 21:56:27 2014//TOPENBSD_5_7
+/setup.c/1.12/Wed Dec 31 15:45:57 2014//TOPENBSD_5_7
+/subr.c/1.10/Tue Oct 27 23:59:23 2009//TOPENBSD_5_7
+/vocab.c/1.14/Sun Jul 13 19:40:57 2014//TOPENBSD_5_7
+/wizard.c/1.17/Wed Dec 31 15:45:57 2014//TOPENBSD_5_7
+D

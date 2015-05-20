@@ -1,0 +1,15 @@
+/Makefile/1.4/Mon May 16 15:22:46 2005//TOPENBSD_5_7
+/backupfile.c/1.21/Tue Nov 26 13:19:07 2013//TOPENBSD_5_7
+/backupfile.h/1.6/Mon Jul 28 18:35:36 2003//TOPENBSD_5_7
+/common.h/1.28/Tue Nov 25 10:26:07 2014//TOPENBSD_5_7
+/inp.c/1.43/Thu Feb  5 12:59:57 2015//TOPENBSD_5_7
+/inp.h/1.8/Fri Aug 15 08:00:51 2003//TOPENBSD_5_7
+/mkpath.c/1.4/Tue May 20 01:25:23 2014//TOPENBSD_5_7
+/patch.1/1.28/Sat Nov 22 15:49:28 2014//TOPENBSD_5_7
+/patch.c/1.54/Sat Dec 13 10:31:07 2014//TOPENBSD_5_7
+/pathnames.h/1.1/Tue Jul 29 20:10:17 2003//TOPENBSD_5_7
+/pch.c/1.51/Thu Feb  5 12:59:57 2015//TOPENBSD_5_7
+/pch.h/1.9/Fri Oct 31 20:20:45 2003//TOPENBSD_5_7
+/util.c/1.39/Fri Jan 16 06:40:10 2015//TOPENBSD_5_7
+/util.h/1.16/Sat Dec 13 10:31:07 2014//TOPENBSD_5_7
+D

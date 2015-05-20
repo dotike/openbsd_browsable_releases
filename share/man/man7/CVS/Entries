@@ -1,0 +1,25 @@
+/Makefile/1.21/Mon Nov 21 12:00:57 2011//TOPENBSD_5_7
+/ascii.7/1.7/Sun Jan 19 10:39:00 2014//TOPENBSD_5_7
+/environ.7/1.18/Thu Oct 28 17:55:04 2010//TOPENBSD_5_7
+/eqn.7/1.7/Sat Feb 28 21:51:57 2015//TOPENBSD_5_7
+/glob.7/1.5/Tue Dec  9 15:37:14 2014//TOPENBSD_5_7
+/hier.7/1.137/Mon Nov 17 18:19:08 2014//TOPENBSD_5_7
+/hostname.7/1.9/Sat Aug 23 07:25:54 2014//TOPENBSD_5_7
+/intro.7/1.16/Mon Jan 20 20:26:56 2014//TOPENBSD_5_7
+/kgdb.7/1.7/Thu May 31 19:19:58 2007//TOPENBSD_5_7
+/library-specs.7/1.10/Mon Nov 15 07:41:21 2010//TOPENBSD_5_7
+/mailaddr.7/1.16/Tue Sep 16 21:11:56 2014//TOPENBSD_5_7
+/man.7/1.44/Thu Jan 29 00:33:14 2015//TOPENBSD_5_7
+/mandoc_char.7/1.23/Tue Jan 20 18:54:33 2015//TOPENBSD_5_7
+/mdoc.7/1.133/Mon Feb 23 13:30:02 2015//TOPENBSD_5_7
+/mirroring-ports.7/1.26/Thu Jan 10 22:52:28 2013//TOPENBSD_5_7
+/operator.7/1.9/Sat Sep  3 22:59:07 2011//TOPENBSD_5_7
+/packages-specs.7/1.25/Mon Oct 27 22:45:30 2014//TOPENBSD_5_7
+/packages.7/1.37/Mon Feb 23 20:52:49 2015//TOPENBSD_5_7
+/pkgpath.7/1.3/Mon Oct 27 22:45:30 2014//TOPENBSD_5_7
+/ports.7/1.101/Tue Feb 17 16:29:16 2015//TOPENBSD_5_7
+/roff.7/1.50/Tue Feb 17 17:16:11 2015//TOPENBSD_5_7
+/script.7/1.7/Tue Jan 21 03:15:46 2014//TOPENBSD_5_7
+/securelevel.7/1.25/Thu Oct  9 04:23:04 2014//TOPENBSD_5_7
+/tbl.7/1.14/Thu Jan 29 00:33:14 2015//TOPENBSD_5_7
+D

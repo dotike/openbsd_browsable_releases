@@ -1,0 +1,17 @@
+/Makefile/1.27/Mon Feb 23 10:39:10 2015//TOPENBSD_5_7
+/config.c/1.36/Mon Feb 23 11:48:41 2015//TOPENBSD_5_7
+/control.c/1.6/Wed Jan 21 22:21:05 2015//TOPENBSD_5_7
+/http.h/1.12/Wed Feb 11 12:52:01 2015//TOPENBSD_5_7
+/httpd.8/1.50/Tue Feb 24 07:56:06 2015//TOPENBSD_5_7
+/httpd.c/1.35/Mon Feb 23 18:43:18 2015//TOPENBSD_5_7
+/httpd.conf.5/1.54/Fri Mar  6 05:10:18 2015//TOPENBSD_5_7
+/httpd.h/1.81/Mon Feb 23 18:43:18 2015//TOPENBSD_5_7
+/log.c/1.5/Wed Jan 21 22:21:05 2015//TOPENBSD_5_7
+/logger.c/1.11/Sun Feb  8 00:00:59 2015//TOPENBSD_5_7
+/parse.y/1.65/Thu Feb 12 04:40:23 2015//TOPENBSD_5_7
+/proc.c/1.8/Wed Jan 21 22:21:05 2015//TOPENBSD_5_7
+/server.c/1.60/Mon Feb 23 09:52:28 2015//TOPENBSD_5_7
+/server_fcgi.c/1.52/Mon Feb 23 19:22:43 2015//TOPENBSD_5_7
+/server_file.c/1.51/Thu Feb 12 10:05:29 2015//TOPENBSD_5_7
+/server_http.c/1.75/Mon Feb 23 18:43:18 2015//TOPENBSD_5_7
+D

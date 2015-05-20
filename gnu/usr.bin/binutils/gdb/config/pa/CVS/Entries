@@ -1,0 +1,19 @@
+/hppa.mt/1.1.1.2/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/hppa64.mt/1.1.1.2/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/hppahpux.mh/1.4/Mon Dec 27 14:00:49 2004//TOPENBSD_5_7
+/hppahpux.mt/1.4/Mon Dec 27 14:00:49 2004//TOPENBSD_5_7
+/hpux1020.mh/1.1.1.2/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/hpux11.mh/1.1.1.2/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/hpux11w.mh/1.1.1.2/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/linux.mh/1.1.1.1/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/linux.mt/1.1.1.1/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/nm-hppah.h/1.4/Mon Dec 27 14:00:49 2004//TOPENBSD_5_7
+/nm-hppah11.h/1.1.1.1/Fri May 21 19:15:31 2004//TOPENBSD_5_7
+/nm-linux.h/1.1.1.1/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/obsd.mh/1.5/Fri May  4 20:42:37 2012//TOPENBSD_5_7
+/obsd.mt/1.4/Mon Dec 27 14:00:49 2004//TOPENBSD_5_7
+/tm-hppa.h/1.4/Mon Dec 27 14:00:49 2004//TOPENBSD_5_7
+/tm-hppa64.h/1.1.1.2/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+/tm-hppah.h/1.4/Mon Dec 27 14:00:49 2004//TOPENBSD_5_7
+/tm-linux.h/1.1.1.1/Mon Dec 27 13:13:38 2004//TOPENBSD_5_7
+D

@@ -1,0 +1,17 @@
+/Makefile/1.3/Thu Jun 23 11:53:57 2011//TOPENBSD_5_7
+/dc.expected/1.1/Mon Oct 13 13:22:10 2008//TOPENBSD_5_7
+/dc.in/1.1/Mon Oct 13 13:22:10 2008//TOPENBSD_5_7
+/dc.sed/1.1/Mon Oct 13 13:22:10 2008//TOPENBSD_5_7
+/hanoi.expected/1.1/Fri Oct 10 14:33:34 2008//TOPENBSD_5_7
+/hanoi.in/1.1/Thu Oct 22 17:34:03 2009//TOPENBSD_5_7
+/hanoi.sed/1.1/Fri Oct 10 14:33:34 2008//TOPENBSD_5_7
+/math.expected/1.1/Fri Oct 10 14:33:34 2008//TOPENBSD_5_7
+/math.in/1.1/Fri Oct 10 14:33:34 2008//TOPENBSD_5_7
+/math.sed/1.1/Fri Oct 10 14:33:34 2008//TOPENBSD_5_7
+/sedtest.expected/1.3/Thu Jul  1 17:04:24 2010//TOPENBSD_5_7
+/sedtest.sh/1.5/Sat Jul  3 02:34:36 2010//TOPENBSD_5_7
+/sierpinski.expected/1.1/Fri Oct 10 14:33:34 2008//TOPENBSD_5_7
+/sierpinski.in/1.1/Thu Oct 22 17:34:03 2009//TOPENBSD_5_7
+/sierpinski.sed/1.1/Fri Oct 10 14:33:34 2008//TOPENBSD_5_7
+/substitute.sh/1.3/Sat Sep 17 09:20:28 2011//TOPENBSD_5_7
+D

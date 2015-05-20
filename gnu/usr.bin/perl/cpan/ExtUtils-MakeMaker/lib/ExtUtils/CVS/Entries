@@ -1,0 +1,26 @@
+/Liblist.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_AIX.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_Any.pm/1.5/Mon Nov 17 20:56:59 2014/-ko/TOPENBSD_5_7
+/MM_BeOS.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_Cygwin.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_DOS.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_Darwin.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_MacOS.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_NW5.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_OS2.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_QNX.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_UWIN.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_Unix.pm/1.6/Sat Jan  3 16:17:19 2015/-ko/TOPENBSD_5_7
+/MM_VMS.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_VOS.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_Win32.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MM_Win95.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MY.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/MakeMaker.pm/1.5/Mon Nov 17 20:57:00 2014/-ko/TOPENBSD_5_7
+/Mkbootstrap.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/Mksymlists.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+/testlib.pm/1.1.1.4/Mon Nov 17 20:52:46 2014/-ko/TOPENBSD_5_7
+D/Command////
+D/Liblist////
+D/MakeMaker////

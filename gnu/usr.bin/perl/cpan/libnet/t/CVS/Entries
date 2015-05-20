@@ -1,0 +1,11 @@
+/config.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/datasend.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/ftp.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/hostname.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/libnet_t.pl/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/netrc.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/nntp.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/require.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/smtp.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+/time.t/1.3/Mon Nov 17 20:57:04 2014/-ko/TOPENBSD_5_7
+D

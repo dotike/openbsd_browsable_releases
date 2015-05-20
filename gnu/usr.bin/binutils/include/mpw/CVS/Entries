@@ -1,0 +1,13 @@
+/ChangeLog/1.4/Mon May 17 21:54:49 2004//TOPENBSD_5_7
+/README/1.1/Mon Jan  8 11:08:26 1996//TOPENBSD_5_7
+/dir.h/1.1/Mon Jan  8 11:08:26 1996//TOPENBSD_5_7
+/dirent.h/1.1/Mon Jan  8 11:08:26 1996//TOPENBSD_5_7
+/fcntl.h/1.1/Mon Jan  8 11:08:26 1996//TOPENBSD_5_7
+/grp.h/1.1/Mon Jan  8 11:08:26 1996//TOPENBSD_5_7
+/mpw.h/1.2/Mon Jun 10 10:53:49 1996//TOPENBSD_5_7
+/pwd.h/1.1/Mon Jan  8 11:08:27 1996//TOPENBSD_5_7
+/spin.h/1.2/Mon May 13 17:07:41 2002//TOPENBSD_5_7
+/stat.h/1.1/Mon Jan  8 11:08:27 1996//TOPENBSD_5_7
+/utime.h/1.1/Mon Jan  8 11:08:27 1996//TOPENBSD_5_7
+/varargs.h/1.1/Mon Jan  8 11:08:27 1996//TOPENBSD_5_7
+D/sys////

@@ -1,0 +1,25 @@
+/bless.t/1.1.1.4/Mon Nov 17 20:53:02 2014/-ko/TOPENBSD_5_7
+/bless_var_method.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/bugs.t/1.1.1.3/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_7
+/deparse.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/dumper.t/1.1.1.4/Mon Nov 17 20:53:02 2014/-ko/TOPENBSD_5_7
+/dumpperl.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/freezer.t/1.1.1.3/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_7
+/freezer_useperl.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/indent.t/1.1.1.2/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_7
+/misc.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/names.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/overload.t/1.1.1.2/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_7
+/pair.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_7
+/perl-74170.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_7
+/purity_deepcopy_maxdepth.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/qr.t/1.1.1.1/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_7
+/quotekeys.t/1.1.1.2/Mon Nov 17 20:53:02 2014/-kb/TOPENBSD_5_7
+/recurse.t/1.3/Mon Nov 17 21:00:59 2014/-kb/TOPENBSD_5_7
+/seen.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/sortkeys.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/sparseseen.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/terse.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_7
+/toaster.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+/values.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_7
+D/lib////

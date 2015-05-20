@@ -1,0 +1,7 @@
+/Makefile.inc/1.8/Sun Nov 30 19:43:54 2014//TOPENBSD_5_7
+/bcopy.S/1.7/Sun Nov 30 19:43:54 2014//TOPENBSD_5_7
+/bzero.S/1.4/Sun Aug  7 16:40:13 2005//TOPENBSD_5_7
+/ffs.S/1.2/Fri Oct  1 04:08:45 2004//TOPENBSD_5_7
+/memcpy.S/1.5/Sun Nov 30 19:43:54 2014//TOPENBSD_5_7
+/memmove.S/1.5/Sun Nov 30 19:43:54 2014//TOPENBSD_5_7
+D

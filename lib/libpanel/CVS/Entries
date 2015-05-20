@@ -1,0 +1,21 @@
+/Makefile/1.10/Thu Aug  2 13:38:39 2012//TOPENBSD_5_7
+/p_above.c/1.5/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_below.c/1.5/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_bottom.c/1.6/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_delete.c/1.6/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_hidden.c/1.5/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_hide.c/1.6/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_move.c/1.6/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_new.c/1.5/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_replace.c/1.6/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_show.c/1.6/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_top.c/1.4/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_update.c/1.6/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_user.c/1.4/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/p_win.c/1.4/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/panel.3/1.9/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/panel.c/1.10/Tue Jan 12 23:22:08 2010//TOPENBSD_5_7
+/panel.h/1.8/Fri Jan 23 22:48:51 2015//TOPENBSD_5_7
+/panel.priv.h/1.10/Fri Jan 23 22:48:51 2015//TOPENBSD_5_7
+/shlib_version/1.9/Tue Aug 13 05:52:15 2013//TOPENBSD_5_7
+D

@@ -1,0 +1,18 @@
+/Encode.pm/1.5/Mon Nov 17 20:56:59 2014/-ko/TOPENBSD_5_7
+/Encode.xs/1.5/Mon Nov 17 20:56:59 2014/-ko/TOPENBSD_5_7
+/Makefile.PL/1.4/Mon Nov 17 20:56:59 2014/-ko/TOPENBSD_5_7
+/encengine.c/1.1.1.2/Mon Nov 17 20:52:44 2014/-ko/TOPENBSD_5_7
+/encoding.pm/1.5/Mon Nov 17 20:56:59 2014/-ko/TOPENBSD_5_7
+D/Byte////
+D/CN////
+D/EBCDIC////
+D/Encode////
+D/JP////
+D/KR////
+D/Symbol////
+D/TW////
+D/Unicode////
+D/bin////
+D/lib////
+D/t////
+D/ucm////

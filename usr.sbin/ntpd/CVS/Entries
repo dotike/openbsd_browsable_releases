@@ -1,0 +1,21 @@
+/Makefile/1.14/Tue Feb 17 05:48:18 2015//TOPENBSD_5_7
+/client.c/1.100/Thu Feb 12 01:54:57 2015//TOPENBSD_5_7
+/config.c/1.26/Tue Feb 10 06:40:08 2015//TOPENBSD_5_7
+/constraint.c/1.6/Sun Feb 22 15:09:54 2015//TOPENBSD_5_7
+/control.c/1.5/Tue Feb 10 06:40:08 2015//TOPENBSD_5_7
+/log.c/1.11/Thu Jan  8 05:34:21 2015//TOPENBSD_5_7
+/log.h/1.1/Thu Jan  8 00:30:08 2015//TOPENBSD_5_7
+/ntp.c/1.130/Mon Mar  2 10:31:17 2015//TOPENBSD_5_7
+/ntp.h/1.13/Wed Apr 22 07:42:17 2009//TOPENBSD_5_7
+/ntp_dns.c/1.9/Thu Feb 12 01:54:57 2015//TOPENBSD_5_7
+/ntp_msg.c/1.21/Tue Feb 10 06:01:01 2015//TOPENBSD_5_7
+/ntpctl.8/1.7/Tue Feb 10 06:40:08 2015//TOPENBSD_5_7
+/ntpd.8/1.37/Wed Feb 12 15:45:52 2014//TOPENBSD_5_7
+/ntpd.c/1.92/Wed Feb 11 03:16:57 2015//TOPENBSD_5_7
+/ntpd.conf.5/1.29/Mon Feb 16 19:25:35 2015//TOPENBSD_5_7
+/ntpd.h/1.119/Thu Feb 12 01:54:57 2015//TOPENBSD_5_7
+/parse.y/1.61/Thu Feb 12 23:07:52 2015//TOPENBSD_5_7
+/sensors.c/1.49/Fri Jan  9 07:35:37 2015//TOPENBSD_5_7
+/server.c/1.41/Tue Feb 10 11:46:39 2015//TOPENBSD_5_7
+/util.c/1.18/Tue Feb 10 11:46:39 2015//TOPENBSD_5_7
+D
